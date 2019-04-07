@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1067012832281",
+    "firebase_url": "https://inclassassignment10xiaomengz.firebaseio.com",
+    "project_id": "inclassassignment10xiaomengz",
+    "storage_bucket": "inclassassignment10xiaomengz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067012832281:android:c6a3e4078a8f4ca0",
+        "android_client_info": {
+          "package_name": "com.android.inclassassignment10_xiaomengz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067012832281-aihrk5nhle20krv68nkhimit0btbrsiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.inclassassignment10_xiaomengz",
+            "certificate_hash": "39ee2da8a626b5f8e9331ef73a301f6f5b9173c4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQiLwl17F32GEISqSxC_vjUenIdkZN7s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067012832281-tn4ud7c9frqhedbedplpqfgli6tkgtjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
